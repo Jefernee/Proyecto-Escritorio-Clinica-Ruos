@@ -2,6 +2,7 @@
 
 Este es un sistema informático para gestionar los procesos administrativos de una clínica en aplicación de escritorio. El proyecto incluye funcionalidades para manejar pacientes, historiales médicos, doctores, citas y usuarios. Todo esto está implementado utilizando C#, Entity Framework el entorno fue Visual Studio y la base de datos SQL Server.
 
+Se utilizo en desarrollo en capas para la seguridad de la aplicación
 ## Funcionalidades
 
 - **Gestión de Pacientes**: Registrar y actualizar la información de los pacientes, incluyendo datos personales y su historial médico.
