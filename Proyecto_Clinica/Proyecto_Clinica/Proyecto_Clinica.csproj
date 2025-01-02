@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5C995CB6-9703-4560-A9F6-80C02270CF22}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Proyecto_Clinica</RootNamespace>
+    <AssemblyName>Proyecto_Clinica</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AgregarHistorialdePaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarHistorialdePaciente.Designer.cs">
+      <DependentUpon>AgregarHistorialdePaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarPaciente.Designer.cs">
+      <DependentUpon>AgregarPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarRoles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarRoles.Designer.cs">
+      <DependentUpon>AgregarRoles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarUsuarios.Designer.cs">
+      <DependentUpon>AgregarUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CitaPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CitaPaciente.Designer.cs">
+      <DependentUpon>CitaPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarMedicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarMedicos.Designer.cs">
+      <DependentUpon>AgregarMedicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContraseñaOlvidada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContraseñaOlvidada.Designer.cs">
+      <DependentUpon>ContraseñaOlvidada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditarHistorialdePacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarHistorialdePacientes.Designer.cs">
+      <DependentUpon>EditarHistorialdePacientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditarMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarMedico.Designer.cs">
+      <DependentUpon>EditarMedico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditarPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarPaciente.Designer.cs">
+      <DependentUpon>EditarPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditarRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarRol.Designer.cs">
+      <DependentUpon>EditarRol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarUsuario.Designer.cs">
+      <DependentUpon>EditarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPacientes.Designer.cs">
+      <DependentUpon>FormPacientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipal.Designer.cs">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHistoriales_Medicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHistoriales_Medicos.Designer.cs">
+      <DependentUpon>FormHistoriales_Medicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrincipalAdministrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipalAdministrador.Designer.cs">
+      <DependentUpon>FormPrincipalAdministrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrincipalMedicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipalMedicos.Designer.cs">
+      <DependentUpon>FormPrincipalMedicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrincipalSecretario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipalSecretario.Designer.cs">
+      <DependentUpon>FormPrincipalSecretario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRoles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRoles.Designer.cs">
+      <DependentUpon>FormRoles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUsuarios.Designer.cs">
+      <DependentUpon>FormUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Citas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Citas.Designer.cs">
+      <DependentUpon>Form_Citas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_editarCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_editarCitas.Designer.cs">
+      <DependentUpon>Form_editarCitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Nueva_Cita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Nueva_Cita.Designer.cs">
+      <DependentUpon>Form_Nueva_Cita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMedicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMedicos.Designer.cs">
+      <DependentUpon>FormMedicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AgregarHistorialdePaciente.resx">
+      <DependentUpon>AgregarHistorialdePaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarPaciente.resx">
+      <DependentUpon>AgregarPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarRoles.resx">
+      <DependentUpon>AgregarRoles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarUsuarios.resx">
+      <DependentUpon>AgregarUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CitaPaciente.resx">
+      <DependentUpon>CitaPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarMedicos.resx">
+      <DependentUpon>AgregarMedicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContraseñaOlvidada.resx">
+      <DependentUpon>ContraseñaOlvidada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditarHistorialdePacientes.resx">
+      <DependentUpon>EditarHistorialdePacientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditarMedico.resx">
+      <DependentUpon>EditarMedico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditarPaciente.resx">
+      <DependentUpon>EditarPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditarRol.resx">
+      <DependentUpon>EditarRol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditarUsuario.resx">
+      <DependentUpon>EditarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPacientes.resx">
+      <DependentUpon>FormPacientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHistoriales_Medicos.resx">
+      <DependentUpon>FormHistoriales_Medicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipalAdministrador.resx">
+      <DependentUpon>FormPrincipalAdministrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipalMedicos.resx">
+      <DependentUpon>FormPrincipalMedicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipalSecretario.resx">
+      <DependentUpon>FormPrincipalSecretario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRoles.resx">
+      <DependentUpon>FormRoles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUsuarios.resx">
+      <DependentUpon>FormUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Citas.resx">
+      <DependentUpon>Form_Citas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_editarCitas.resx">
+      <DependentUpon>Form_editarCitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Nueva_Cita.resx">
+      <DependentUpon>Form_Nueva_Cita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMedicos.resx">
+      <DependentUpon>FormMedicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ProyeClinica.DataContracts\ProyeClinica.DataContracts.csproj">
+      <Project>{25f698d4-0988-4b14-a639-acbcda4d3717}</Project>
+      <Name>ProyeClinica.DataContracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProyeClinica.Datalogic\ProyeClinica.Datalogic.csproj">
+      <Project>{1ddba5e6-fd50-49de-9a2f-69a61fae6514}</Project>
+      <Name>ProyeClinica.Datalogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProyeClinica.DataModel\ProyeClinica.DataModel.csproj">
+      <Project>{ebd6c1a9-e7b3-453a-bed2-9420161df25c}</Project>
+      <Name>ProyeClinica.DataModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agregar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aaag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aaag1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

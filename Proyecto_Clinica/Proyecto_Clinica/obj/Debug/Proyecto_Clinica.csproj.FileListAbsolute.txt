@@ -1,0 +1,118 @@
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\Proyecto_Clinica.exe.config
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\Proyecto_Clinica.exe
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\Proyecto_Clinica.pdb
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.AssemblyReference.cache
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.Login.resources
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.Properties.Resources.resources
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.GenerateResource.cache
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.exe
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.pdb
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.FormPrincipal.resources
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.Datalogic.dll
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.Datalogic.pdb
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.FormPacientes.resources
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.CopyComplete
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.DataModel.dll
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\EntityFramework.dll
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.DataModel.pdb
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.DataModel.dll.config
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\EntityFramework.xml
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.CitaPaciente.resources
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.AgregarPaciente.resources
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.DataContracts.dll
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.DataContracts.pdb
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\Proyecto_Clinica.exe.config
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\Proyecto_Clinica.exe
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\Proyecto_Clinica.pdb
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\EntityFramework.dll
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.DataContracts.dll
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.Datalogic.dll
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.DataModel.dll
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.DataContracts.pdb
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.Datalogic.pdb
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.DataModel.pdb
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.DataModel.dll.config
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\EntityFramework.xml
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.AssemblyReference.cache
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.AgregarHistorialdePaciente.resources
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.AgregarPaciente.resources
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.AgregarRoles.resources
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.CitaPaciente.resources
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.AgregarMedicos.resources
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.EditarHistorialdePacientes.resources
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.EditarMedico.resources
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.EditarPaciente.resources
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.EditarRol.resources
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.FormPacientes.resources
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.FormPrincipal.resources
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.FormHistoriales_Medicos.resources
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.FormRoles.resources
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.FormUsuarios.resources
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.Login.resources
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.FormMedicos.resources
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.Properties.Resources.resources
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.GenerateResource.cache
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.CoreCompileInputs.cache
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.CopyComplete
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.exe
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.pdb
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.AgregarUsuarios.resources
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.EditarUsuario.resources
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.FormPrincipalAdministrador.resources
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.FormPrincipalMedicos.resources
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.FormPrincipalSecretario.resources
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.ContraseñaOlvidada.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\Proyecto_Clinica.exe.config
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\Proyecto_Clinica.exe
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\Proyecto_Clinica.pdb
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\EntityFramework.dll
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.DataContracts.dll
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.Datalogic.dll
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.DataModel.dll
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.DataContracts.pdb
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.Datalogic.pdb
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.DataModel.pdb
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.DataModel.dll.config
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\EntityFramework.xml
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.AssemblyReference.cache
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.AgregarHistorialdePaciente.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.AgregarPaciente.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.AgregarRoles.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.AgregarUsuarios.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.CitaPaciente.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.AgregarMedicos.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.ContraseñaOlvidada.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.EditarHistorialdePacientes.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.EditarMedico.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.EditarPaciente.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.EditarRol.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.EditarUsuario.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.FormPacientes.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.FormPrincipal.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.FormHistoriales_Medicos.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.FormPrincipalAdministrador.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.FormPrincipalMedicos.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.FormPrincipalSecretario.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.FormRoles.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.FormUsuarios.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.Form_Citas.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.Login.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.FormMedicos.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.Properties.Resources.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.GenerateResource.cache
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.CopyComplete
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.exe
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.pdb
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.Form_Nueva_Cita.resources
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.Form_editarCitas.resources

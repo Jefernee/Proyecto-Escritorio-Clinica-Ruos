@@ -1,0 +1,42 @@
+C:\Users\Joan\Desktop\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\ProyeClinica.Datalogic.dll
+C:\Users\Joan\Desktop\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\ProyeClinica.Datalogic.pdb
+C:\Users\Joan\Desktop\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\ProyeClinica.DataModel.dll
+C:\Users\Joan\Desktop\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\EntityFramework.dll
+C:\Users\Joan\Desktop\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\ProyeClinica.DataModel.pdb
+C:\Users\Joan\Desktop\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\ProyeClinica.DataModel.dll.config
+C:\Users\Joan\Desktop\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\EntityFramework.xml
+C:\Users\Joan\Desktop\Proyecto_Clinica\ProyeClinica.Datalogic\obj\Debug\ProyeClinica.Datalogic.csproj.AssemblyReference.cache
+C:\Users\Joan\Desktop\Proyecto_Clinica\ProyeClinica.Datalogic\obj\Debug\ProyeClinica.Datalogic.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Desktop\Proyecto_Clinica\ProyeClinica.Datalogic\obj\Debug\ProyeClinica.Datalogic.csproj.CopyComplete
+C:\Users\Joan\Desktop\Proyecto_Clinica\ProyeClinica.Datalogic\obj\Debug\ProyeClinica.Datalogic.dll
+C:\Users\Joan\Desktop\Proyecto_Clinica\ProyeClinica.Datalogic\obj\Debug\ProyeClinica.Datalogic.pdb
+C:\Users\Joan\Desktop\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\ProyeClinica.DataContracts.dll
+C:\Users\Joan\Desktop\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\ProyeClinica.DataContracts.pdb
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\ProyeClinica.Datalogic.dll
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\ProyeClinica.Datalogic.pdb
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\ProyeClinica.DataContracts.dll
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\ProyeClinica.DataModel.dll
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\EntityFramework.dll
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\ProyeClinica.DataContracts.pdb
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\ProyeClinica.DataModel.pdb
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\ProyeClinica.DataModel.dll.config
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\EntityFramework.xml
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\obj\Debug\ProyeClinica.Datalogic.csproj.AssemblyReference.cache
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\obj\Debug\ProyeClinica.Datalogic.csproj.CoreCompileInputs.cache
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\obj\Debug\ProyeClinica.Datalogic.csproj.CopyComplete
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\obj\Debug\ProyeClinica.Datalogic.dll
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\obj\Debug\ProyeClinica.Datalogic.pdb
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\ProyeClinica.Datalogic.dll
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\ProyeClinica.Datalogic.pdb
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\ProyeClinica.DataContracts.dll
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\ProyeClinica.DataModel.dll
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\EntityFramework.dll
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\ProyeClinica.DataContracts.pdb
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\ProyeClinica.DataModel.pdb
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\ProyeClinica.DataModel.dll.config
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\bin\Debug\EntityFramework.xml
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\obj\Debug\ProyeClinica.Datalogic.csproj.AssemblyReference.cache
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\obj\Debug\ProyeClinica.Datalogic.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\obj\Debug\ProyeClinica.Datalogic.csproj.CopyComplete
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\obj\Debug\ProyeClinica.Datalogic.dll
+C:\Users\Joan\Desktop\Clinica\ultimo\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.Datalogic\obj\Debug\ProyeClinica.Datalogic.pdb

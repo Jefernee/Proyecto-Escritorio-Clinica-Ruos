@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ProyectoClinicaModelStoreContainer" CdmEntityContainer="ProyectoClinicaEntities">
+    <EntitySetMapping Name="Citas">
+      <EntityTypeMapping TypeName="ProyectoClinicaModel.Citas">
+        <MappingFragment StoreEntitySet="Citas">
+          <ScalarProperty Name="ID_Cita" ColumnName="ID_Cita" />
+          <ScalarProperty Name="ID_Paciente" ColumnName="ID_Paciente" />
+          <ScalarProperty Name="ID_Medico" ColumnName="ID_Medico" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Hora" ColumnName="Hora" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HistorialesClinicos">
+      <EntityTypeMapping TypeName="ProyectoClinicaModel.HistorialesClinicos">
+        <MappingFragment StoreEntitySet="HistorialesClinicos">
+          <ScalarProperty Name="ID_Historial" ColumnName="ID_Historial" />
+          <ScalarProperty Name="ID_paciente" ColumnName="ID_paciente" />
+          <ScalarProperty Name="Diagnostico" ColumnName="Diagnostico" />
+          <ScalarProperty Name="Tratamiento" ColumnName="Tratamiento" />
+          <ScalarProperty Name="Alergias" ColumnName="Alergias" />
+          <ScalarProperty Name="Medicamentos" ColumnName="Medicamentos" />
+          <ScalarProperty Name="ResultadosPruebas" ColumnName="ResultadosPruebas" />
+          <ScalarProperty Name="NotasSeguimiento" ColumnName="NotasSeguimiento" />
+          <ScalarProperty Name="OtrosDetalles" ColumnName="OtrosDetalles" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Medicos">
+      <EntityTypeMapping TypeName="ProyectoClinicaModel.Medicos">
+        <MappingFragment StoreEntitySet="Medicos">
+          <ScalarProperty Name="ID_Medico" ColumnName="ID_Medico" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Especialidad" ColumnName="Especialidad" />
+          <ScalarProperty Name="HorarioInicio" ColumnName="HorarioInicio" />
+          <ScalarProperty Name="HorarioFin" ColumnName="HorarioFin" />
+          <ScalarProperty Name="Usuario_creacion" ColumnName="Usuario_creacion" />
+          <ScalarProperty Name="fecha_creacion" ColumnName="fecha_creacion" />
+          <ScalarProperty Name="Usuario_modificador" ColumnName="Usuario_modificador" />
+          <ScalarProperty Name="fecha_modificacion" ColumnName="fecha_modificacion" />
+          <ScalarProperty Name="OtrosDetalles" ColumnName="OtrosDetalles" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Pacientes">
+      <EntityTypeMapping TypeName="ProyectoClinicaModel.Pacientes">
+        <MappingFragment StoreEntitySet="Pacientes">
+          <ScalarProperty Name="ID_Paciente" ColumnName="ID_Paciente" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="FechaNacimiento" ColumnName="FechaNacimiento" />
+          <ScalarProperty Name="Dirección" ColumnName="Dirección" />
+          <ScalarProperty Name="Teléfono" ColumnName="Teléfono" />
+          <ScalarProperty Name="Usuario_creacion" ColumnName="Usuario_creacion" />
+          <ScalarProperty Name="fecha_creacion" ColumnName="fecha_creacion" />
+          <ScalarProperty Name="Usuario_modificador" ColumnName="Usuario_modificador" />
+          <ScalarProperty Name="fecha_modificacion" ColumnName="fecha_modificacion" />
+          <ScalarProperty Name="CorreoElectronico" ColumnName="CorreoElectronico" />
+          <ScalarProperty Name="OtrasCaracterísticas" ColumnName="OtrasCaracterísticas" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rol">
+      <EntityTypeMapping TypeName="ProyectoClinicaModel.Rol">
+        <MappingFragment StoreEntitySet="Rol">
+          <ScalarProperty Name="ID_Rol" ColumnName="ID_Rol" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Usuario_creacion" ColumnName="Usuario_creacion" />
+          <ScalarProperty Name="fecha_creacion" ColumnName="fecha_creacion" />
+          <ScalarProperty Name="Usuario_modificador" ColumnName="Usuario_modificador" />
+          <ScalarProperty Name="fecha_modificacion" ColumnName="fecha_modificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Usuarios">
+      <EntityTypeMapping TypeName="ProyectoClinicaModel.Usuarios">
+        <MappingFragment StoreEntitySet="Usuarios">
+          <ScalarProperty Name="ID_Usuario" ColumnName="ID_Usuario" />
+          <ScalarProperty Name="Id_Rol" ColumnName="Id_Rol" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="CorreoElectronico" ColumnName="CorreoElectronico" />
+          <ScalarProperty Name="Contraseña" ColumnName="Contraseña" />
+          <ScalarProperty Name="Rol" ColumnName="Rol" />
+          <ScalarProperty Name="Usuario_creacion" ColumnName="Usuario_creacion" />
+          <ScalarProperty Name="fecha_creacion" ColumnName="fecha_creacion" />
+          <ScalarProperty Name="Usuario_modificador" ColumnName="Usuario_modificador" />
+          <ScalarProperty Name="fecha_modificacion" ColumnName="fecha_modificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

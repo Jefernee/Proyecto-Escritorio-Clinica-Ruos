@@ -1,0 +1,16 @@
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\Proyecto_Clinica.exe.config
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\Proyecto_Clinica.exe
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\Proyecto_Clinica.pdb
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.AssemblyReference.cache
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.Login.resources
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.Properties.Resources.resources
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.GenerateResource.cache
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.exe
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.pdb
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.FormPrincipal.resources
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.Datalogic.dll
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\bin\Debug\ProyeClinica.Datalogic.pdb
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.FormPacientes.resources
+C:\Users\Joan\Desktop\Proyecto_Clinica\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\Joan\Desktop\Proyecto_Clinica\ProyeClinica.DataContracts\bin\Debug\ProyeClinica.DataContracts.dll
+C:\Users\Joan\Desktop\Proyecto_Clinica\ProyeClinica.DataContracts\bin\Debug\ProyeClinica.DataContracts.pdb
+C:\Users\Joan\Desktop\Proyecto_Clinica\ProyeClinica.DataContracts\obj\Debug\ProyeClinica.DataContracts.csproj.AssemblyReference.cache
+C:\Users\Joan\Desktop\Proyecto_Clinica\ProyeClinica.DataContracts\obj\Debug\ProyeClinica.DataContracts.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Desktop\Proyecto_Clinica\ProyeClinica.DataContracts\obj\Debug\ProyeClinica.DataContracts.dll
+C:\Users\Joan\Desktop\Proyecto_Clinica\ProyeClinica.DataContracts\obj\Debug\ProyeClinica.DataContracts.pdb
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.DataContracts\bin\Debug\ProyeClinica.DataContracts.dll
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.DataContracts\bin\Debug\ProyeClinica.DataContracts.pdb
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.DataContracts\obj\Debug\ProyeClinica.DataContracts.csproj.AssemblyReference.cache
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.DataContracts\obj\Debug\ProyeClinica.DataContracts.csproj.CoreCompileInputs.cache
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.DataContracts\obj\Debug\ProyeClinica.DataContracts.dll
+C:\Proyectos Jefernee de programacion\Proyecto_Clinica\Proyecto_Clinica\ProyeClinica.DataContracts\obj\Debug\ProyeClinica.DataContracts.pdb

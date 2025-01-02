@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProyectoClinicaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Citas">
+    <Key>
+      <PropertyRef Name="ID_Cita" />
+    </Key>
+    <Property Name="ID_Cita" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ID_Paciente" Type="Int32" />
+    <Property Name="ID_Medico" Type="Int32" />
+    <Property Name="Fecha" Type="DateTime" Precision="0" />
+    <Property Name="Hora" Type="Time" Precision="7" />
+    <Property Name="Estado" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Medicos" Relationship="Self.FK__Citas__ID_Medico__66603565" FromRole="Citas" ToRole="Medicos" />
+    <NavigationProperty Name="Pacientes" Relationship="Self.FK__Citas__ID_Pacien__656C112C" FromRole="Citas" ToRole="Pacientes" />
+  </EntityType>
+  <EntityType Name="HistorialesClinicos">
+    <Key>
+      <PropertyRef Name="ID_Historial" />
+    </Key>
+    <Property Name="ID_Historial" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ID_paciente" Type="Int32" />
+    <Property Name="Diagnostico" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="Tratamiento" Type="String" MaxLength="800" FixedLength="false" Unicode="false" />
+    <Property Name="Alergias" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="Medicamentos" Type="String" MaxLength="1000" FixedLength="false" Unicode="false" />
+    <Property Name="ResultadosPruebas" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="NotasSeguimiento" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="OtrosDetalles" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Pacientes" Relationship="Self.FK__Historial__ID_pa__693CA210" FromRole="HistorialesClinicos" ToRole="Pacientes" />
+  </EntityType>
+  <EntityType Name="Medicos">
+    <Key>
+      <PropertyRef Name="ID_Medico" />
+    </Key>
+    <Property Name="ID_Medico" Type="Int32" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Especialidad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="HorarioInicio" Type="Time" Precision="7" />
+    <Property Name="HorarioFin" Type="Time" Precision="7" />
+    <Property Name="Usuario_creacion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="fecha_creacion" Type="DateTime" Precision="3" />
+    <Property Name="Usuario_modificador" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="fecha_modificacion" Type="DateTime" Precision="3" />
+    <Property Name="OtrosDetalles" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Citas" Relationship="Self.FK__Citas__ID_Medico__66603565" FromRole="Medicos" ToRole="Citas" />
+  </EntityType>
+  <EntityType Name="Pacientes">
+    <Key>
+      <PropertyRef Name="ID_Paciente" />
+    </Key>
+    <Property Name="ID_Paciente" Type="Int32" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FechaNacimiento" Type="DateTime" Precision="0" />
+    <Property Name="Dirección" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Teléfono" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Usuario_creacion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="fecha_creacion" Type="DateTime" Precision="3" />
+    <Property Name="Usuario_modificador" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="fecha_modificacion" Type="DateTime" Precision="3" />
+    <Property Name="CorreoElectronico" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="OtrasCaracterísticas" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Citas" Relationship="Self.FK__Citas__ID_Pacien__656C112C" FromRole="Pacientes" ToRole="Citas" />
+    <NavigationProperty Name="HistorialesClinicos" Relationship="Self.FK__Historial__ID_pa__693CA210" FromRole="Pacientes" ToRole="HistorialesClinicos" />
+  </EntityType>
+  <EntityType Name="Rol">
+    <Key>
+      <PropertyRef Name="ID_Rol" />
+    </Key>
+    <Property Name="ID_Rol" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Usuario_creacion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="fecha_creacion" Type="DateTime" Precision="3" />
+    <Property Name="Usuario_modificador" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="fecha_modificacion" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Usuarios" Relationship="Self.FK__Usuarios__Id_Rol__5EBF139D" FromRole="Rol" ToRole="Usuarios" />
+  </EntityType>
+  <EntityType Name="Usuarios">
+    <Key>
+      <PropertyRef Name="ID_Usuario" />
+    </Key>
+    <Property Name="ID_Usuario" Type="Int32" Nullable="false" />
+    <Property Name="Id_Rol" Type="Int32" />
+    <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CorreoElectronico" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Contraseña" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Rol" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Usuario_creacion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="fecha_creacion" Type="DateTime" Precision="3" />
+    <Property Name="Usuario_modificador" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="fecha_modificacion" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Rol1" Relationship="Self.FK__Usuarios__Id_Rol__5EBF139D" FromRole="Usuarios" ToRole="Rol" />
+  </EntityType>
+  <Association Name="FK__Citas__ID_Medico__66603565">
+    <End Role="Medicos" Type="Self.Medicos" Multiplicity="0..1" />
+    <End Role="Citas" Type="Self.Citas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Medicos">
+        <PropertyRef Name="ID_Medico" />
+      </Principal>
+      <Dependent Role="Citas">
+        <PropertyRef Name="ID_Medico" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Citas__ID_Pacien__656C112C">
+    <End Role="Pacientes" Type="Self.Pacientes" Multiplicity="0..1" />
+    <End Role="Citas" Type="Self.Citas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pacientes">
+        <PropertyRef Name="ID_Paciente" />
+      </Principal>
+      <Dependent Role="Citas">
+        <PropertyRef Name="ID_Paciente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Historial__ID_pa__693CA210">
+    <End Role="Pacientes" Type="Self.Pacientes" Multiplicity="0..1" />
+    <End Role="HistorialesClinicos" Type="Self.HistorialesClinicos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Pacientes">
+        <PropertyRef Name="ID_Paciente" />
+      </Principal>
+      <Dependent Role="HistorialesClinicos">
+        <PropertyRef Name="ID_paciente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Usuarios__Id_Rol__5EBF139D">
+    <End Role="Rol" Type="Self.Rol" Multiplicity="0..1" />
+    <End Role="Usuarios" Type="Self.Usuarios" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rol">
+        <PropertyRef Name="ID_Rol" />
+      </Principal>
+      <Dependent Role="Usuarios">
+        <PropertyRef Name="Id_Rol" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ProyectoClinicaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Citas" EntityType="Self.Citas" />
+    <EntitySet Name="HistorialesClinicos" EntityType="Self.HistorialesClinicos" />
+    <EntitySet Name="Medicos" EntityType="Self.Medicos" />
+    <EntitySet Name="Pacientes" EntityType="Self.Pacientes" />
+    <EntitySet Name="Rol" EntityType="Self.Rol" />
+    <EntitySet Name="Usuarios" EntityType="Self.Usuarios" />
+    <AssociationSet Name="FK__Citas__ID_Medico__66603565" Association="Self.FK__Citas__ID_Medico__66603565">
+      <End Role="Medicos" EntitySet="Medicos" />
+      <End Role="Citas" EntitySet="Citas" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Citas__ID_Pacien__656C112C" Association="Self.FK__Citas__ID_Pacien__656C112C">
+      <End Role="Pacientes" EntitySet="Pacientes" />
+      <End Role="Citas" EntitySet="Citas" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Historial__ID_pa__693CA210" Association="Self.FK__Historial__ID_pa__693CA210">
+      <End Role="Pacientes" EntitySet="Pacientes" />
+      <End Role="HistorialesClinicos" EntitySet="HistorialesClinicos" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Usuarios__Id_Rol__5EBF139D" Association="Self.FK__Usuarios__Id_Rol__5EBF139D">
+      <End Role="Rol" EntitySet="Rol" />
+      <End Role="Usuarios" EntitySet="Usuarios" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
